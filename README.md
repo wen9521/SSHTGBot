@@ -1,135 +1,135 @@
 <h1 align="center">SSH Master</h1>
-<h3 align="center"><span style="font-size: 0.9em;"><a href="/README.md">简体中文</a></span> / <span style="font-size: 0.9em;">English</span></h3>
+<h3 align="center"><span style="font-size: 0.9em;">简体中文</span> / <a href="/.github/README_en.md" style="font-size: 0.9em;">English</a></h3>
 
 <div align="center">
-    <strong>🚀 Lightweight SSH/SFTP Remote Management Tool | <a href="https://ssh.argofusion.com">Online Version</a></strong>
+    <strong>🚀 轻量级 SSH/SFTP 远程管理工具 | <a href="https://ssh.argofusion.com">在线版本</a></strong>
 </div>
 
 <div align="center">
-    <p>📢 Open Source Version Update Coming: Support for SFTP and Better User Experience</p>
-    <p>🌟 Online Version Available: <a href="https://ssh.argofusion.com">https://ssh.argofusion.com</a></p>
+    <p>📢 开源版本即将更新：支持 SFTP 和更好的使用体验</p>
+    <p>🌟 在线版本已发布：<a href="https://ssh.argofusion.com">https://ssh.argofusion.com</a></p>
 </div>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Status-Coming Soon-orange" alt="Status">
-    <img src="https://img.shields.io/badge/License-MIT-blue" alt="License">
+    <img src="https://img.shields.io/badge/状态-即将更新-orange" alt="Status">
+    <img src="https://img.shields.io/badge/开源协议-MIT-blue" alt="License">
 </p>
 
-## ✨ Key Features
+## ✨ 主要功能
 
-- 🔐 **Authentication**: Support for password and key authentication
-- 🌐 **Web Terminal**: Manage SSH connections in browser
-- 📂 **SFTP Features**: File upload, download and editing capabilities
-- 📱 **Mobile Support**: Compatible with mobile devices
-- 🔄 **Batch Operations**: Execute commands on multiple servers
-- ⏰ **Scheduled Tasks**: Basic task management
-- 👥 **Group Management**: Server grouping functionality
-- 🌍 **Bilingual**: Chinese and English interface
+- 🔐 **认证方式**: 支持密码和密钥认证
+- 🌐 **Web 终端**: 浏览器中管理 SSH 连接（WEBSSH）
+- 📂 **SFTP 功能**: 文件上传、下载和编辑功能
+- 📱 **移动适配**: 支持手机访问
+- 🔄 **批量操作**: 多服务器命令执行
+- ⏰ **定时任务**: 基础的任务管理
+- 👥 **分组管理**: 服务器分组功能
+- 🌍 **双语支持**: 中文和英文界面
 
-## 🎯 Use Cases
+## 🎯 使用场景
 
-- Server maintenance
-- Batch command execution
-- File transfer management
-- Scheduled task execution
-- Mobile management
+- 服务器日常维护
+- 批量命令执行
+- 文件传输管理
+- 定时任务执行
+- 移动端管理
 
-## 🚀 Online Version
+## 🚀 在线版本
 
-Visit the online version: [https://ssh.argofusion.com](https://ssh.argofusion.com)
+访问在线版本：[https://ssh.argofusion.com](https://ssh.argofusion.com)
 
-## 📝 Version Information
+## 📝 版本说明
 
-This is the open-source version of SSH Master, providing basic SSH connection and management features, with SFTP support coming soon. The online version additionally offers:
+这是 SSH Master 的开源版本，提供基础的 SSH 连接和管理功能，SFTP 支持即将更新。在线版本额外提供：
 
-- Multi-user permission management system
+- 多用户权限管理系统
 
-Online version: [https://ssh.argofusion.com](https://ssh.argofusion.com)
+在线版本：[https://ssh.argofusion.com](https://ssh.argofusion.com)
 
-## 🤝 Contributing
+## 🤝 参与贡献
 
-Issues and Pull Requests are welcome to help improve this project.
+欢迎提交 Issue 和 Pull Request 来帮助改进这个项目。
 
-## 📜 License
+## 📜 开源协议
 
-This project is licensed under the MIT License. Please comply with the open source license when using it.
+本项目采用 MIT 协议开源，使用时请遵守开源协议。
 
-## Project Overview
+## 项目简介
 
-SSH Master is a Telegram-based automation tool primarily designed for remote management and scheduled or manual execution of commands on multiple hosts (such as serv00). This project allows users to perform various operations through a Telegram bot interface, including SSH connections to hosts, execution of custom commands in bulk, and setting up scheduled tasks.
+SSHTGBot 是一个基于 Telegram 的自动化工具，主要用于远程管理和定时、手动执行命令到多个主机（如sevr00）。该项目允许用户通过 Telegram 机器人界面执行各种操作，包括SSH连接到主机、执行批量自定义命令、设置定时任务等。
 
-### Key Features
+### 主要功能
 
-1. Remote control of hosts via Telegram bot interface
-2. Support for SSH connections to multiple hosts
-3. Execution of custom commands or predefined scripts
-4. Scheduling of script execution tasks
-5. Support for key-based authentication
-6. Support for bulk public key upload
-7. Support for scheduled task management (New)
-8. Support for host grouping (New)
-9. Support for time mode switching (hours/minutes) (New)
+1. 通过 Telegram 机器人接口远程控制主机
+2. 支持 SSH 连接到多个主机
+3. 执行自定义命令或预设的脚本
+4. 设置定时执行脚本任务
+5. 支持密钥登录
+6. 支持批量上传公钥
+7. 支持定时任务管理（新增）
+8. 支持主机分组（新增）
+9. 支持时间模式切换（小时/分钟）（新增）
 
-## Telegram Discussion Group
+## Telegram 交流群
 
-We welcome you to join our Telegram discussion group. Here you can discuss usage experiences with other users, get help, and stay updated on the latest project developments:
+欢迎加入我们的 Telegram 交流群，在这里您可以与其他用户讨论使用心得，获取帮助，以及了解最新的项目动态：
 
-[Join SSH Master Discussion Group](https://t.me/+WIX6H-944HQzZmQ9)
+[加入SSHTGBot交流群](https://t.me/+WIX6H-944HQzZmQ9)
 
-## Deployment Method
+## 部署方法
 
-### Prerequisites
+### 准备工作
 
-1. A Telegram bot Token. Search for BotFather in Telegram, create a new Bot, and obtain the API Token.
-2. Your Telegram user ID. To get this: Send a message to the Bot, then visit `https://api.telegram.org/bot<Your_API Token>/getUpdates` to obtain the Chat ID.
-3. A Render account (for deployment)
-4. Your host account information (including SSH username, password, and SSH address)
+1. 一个 Telegram 机器人 Token。在 Telegram 中搜索BotFather，创建新 Bot，并获取 API Token。
+2. 您的 Telegram 用户 ID。获取方式：向 Bot 发送一条消息，访问`https://api.telegram.org/bot<Your_API Token>/getUpdates`获取 Chat ID。
+3. 一个 Render 账户（用于部署）
+4. 您的主机账户信息（包括ssh用户名和密码、ssh地址）
 
-### Deployment Steps
+### 部署步骤
 
-1. Fork this project to your GitHub account.
+1. Fork 本项目到您的 GitHub 账户。
 
-2. Create a new Web Service in Render and connect it to your forked GitHub repository.
+2. 在 Render 中创建一个新的 Web Service，并连接到您 fork 的 GitHub 仓库。
 
-3. Set the following environment variables in Render:
-   - `LAUNUAGE`:zh/en, Default language is Chinese
-   - `TELEGRAM_BOT_TOKEN`: Your Telegram bot Token
-   - `TELEGRAM_CHAT_ID`: Your Telegram user ID 
-   - `ACCOUNTS_JSON`: JSON string containing host account information, formatted as follows:
+3. 在 Render 的环境变量中设置以下变量：
+   - `TELEGRAM_BOT_TOKEN`: 必填，您的 Telegram 机器人 Token
+   - `TELEGRAM_CHAT_ID`: 必填，您的 Telegram 用户 ID 
+   - `ACCOUNTS_JSON`:可选，建议设置， 包含主机账户信息的 JSON 字符串，格式如下：
      ```json
      [
        {
-         "customhostname": "customhostname1", (Custom host name, recommended to set)
-         "ssluser": "your_ssluser1", (SSH username)
-         "password": "your_password1", (SSH password)
-         "sslhost": "your_sslhost1", (SSH address, format example: "s5.serv00.com")
-         "secretkey": "private key path 1 including private key file", (Optional, used to upload private key to render, set in Secret Files under render environment variables. Format example: /etc/secrets/<filename>. For security, it's recommended to delete SSH login password and public key after setting private key and uploading public key)
-         "publickey": "public key path 1 including public key file, file extension .pub" (Optional, note no comma at the end of this line. Used to upload public key to SSH host, set in Secret Files under render environment variables. Format example: /etc/secrets/<filename>)
+         "customhostname": "customhostname1",(自定义主机名称,建议设置)
+         "ssluser": "your_ssluser1",（ssh用户名）
+         "password": "your_password1",（ssh密码）
+         "sslhost": "your_sslhost1",（ssh地址，格式示例："s5.serv00.com"）
+         "secretkey": "私钥路径1包括私钥文件",（选填，用于上传私钥至render，在render环境变量下Secret Files中设置。格式示例：/etc/secrets/<filename>，设置私钥及上传公钥后为保证使用安全建议删除ssh登录密码和公钥）
+         "publickey": "公钥路径1包括公钥文件，文件后缀.pub"（选填，注意最后一行此处无逗号。用于上传公钥至ssh主机，在render环境变量下Secret Files中设置。格式示例：/etc/secrets/<filename>）
        },
        {
          "customhostname": "customhostname2",
          "ssluser": "your_ssluser2",
          "password": "your_password2",
          "sslhost": "your_sslhost2",
-         "secretkey": "private key path 2",
-         "publickey": "public key path 2"
+         "secretkey": "私钥路径2",
+         "publickey": "公钥路径2"
        },     
        ...
      ]
      ```
-   - `AUTO_CONNECT_INTERVAL`: Cycle time for scheduled tasks, optional, integer default 24, can be disabled by entering /set_cron 0 in telegram after deployment.
-   - `RENDER_APP_URL`: Your Render application URL (format: https://*******.onrender.com, top left of the project, no / at the end of the address)
-   - `CUSTOM_COMMAND`: Initial custom execution command (when set, custom commands will not be cleared after Render redeploys)
-   - `TIME_MODE`: Time unit mode (hour/minute) sets whether the cycle unit is hours or minutes, minute mode allows for more precise control, default is hour mode.
-   - `CRON_TASKS_JSON`: Scheduled tasks and host group configuration (New), formatted as follows:
+   - `RENDER_APP_URL`: 必填，您的 Render 应用 URL（格式：https://*******.onrender.com，项目左上角，地址最后不要有/）
+   - `LAUNUAGE`: 可选，zh/en,默认语言为中文
+   - `AUTO_CONNECT_INTERVAL`: 可选，定时任务的周期时间，选填，整数默认24，部署后可在telegram中输入/set_cron 0关闭定时任务。
+   - `CUSTOM_COMMAND`: 可选，初始自定义执行命令（设置后，Render重新部署后不会清空自定义命令）
+   - `TIME_MODE`:可选， 时间单位模式(hour/minute)周期单位设置为小时还是分钟，分钟可更精确控制，默认为小时模式。
+   - `CRON_TASKS_JSON`:可选， 定时任务和主机分组配置（新增），格式如下：
      ```json
      {
          "tasks": [
              {
-                 "id": "1", (Task number)
-                 "command": "uptime", (Custom command)
-                 "interval": 1, (Cycle time, hours in hour mode, minutes in minute mode)
-                 "variation": 10, (Deviation time, minutes in hour mode, seconds in minute mode)
+                 "id": "1",（任务编号）
+                 "command": "uptime",（自定义命令）
+                 "interval": 1,（周期时间，小时模式为小时，分钟模式为分钟）
+                 "variation": 10,（偏差时间，小时模式为分钟，分钟模式为秒）
                  "target": "all"
              },
              {
@@ -137,14 +137,14 @@ We welcome you to join our Telegram discussion group. Here you can discuss usage
                  "command": "df -h",
                  "interval": 1,
                  "variation": 5,
-                 "target": "+3" (First three hosts in ACCOUNTS_JSON, -3 would indicate the last 3 hosts)
+                 "target": "+3"（ACCOUNTS_JSON前三个主机,-3则表示后3个主机）
              },
              {
                  "id": "3",
                  "command": "custom_command",
                  "interval": 1,
                  "variation": 2,
-                 "target": "flypig,maxjiu,group:group2" (Host groups need to be prefixed with group:)
+                 "target": "flypig,maxjiu,group:group2"（主机组前需要加group:）
              }
          ],
          "host_groups": {
@@ -160,76 +160,76 @@ We welcome you to join our Telegram discussion group. Here you can discuss usage
      }
      ```
 
-4. Start Docker in Render.
+4. 在 Render 中docker启动。
 
-Note: Render allows deployment of one free project, which may experience a 50s delay if not accessed for a long time. You can download UptimeRobot on your phone to keep it active for free.
+备注：Render可以部署一个免费项目，长时间不访问会可能有50s迟缓，可以手机下载UptimeRobot免费保持活跃。
 
-## Usage Instructions
+## 使用说明
 
-### Basic Commands
+### 基本命令
 
-- `/language` - Switch language
-- `/start` - Send this help message again (entering non-command characters will also push help)
-- `/grouprundeault` - Trigger batch execution of commands on hosts
-- `/setcron <hours>` - Set and view the cycle for executing commands (e.g., /setcron 24)
-- `/setvartime <minutes>` - Set and view the random variation range for the command execution cycle (e.g., /setvartime 10)
-- `/ssh` - List all available hosts
-- `/ssh <customhostname or ssluser@sslhost>` - Connect to the specified host
-- `/exit` - Exit the current SSH session
-- `/setcommand <command>` - Set the custom command to execute (e.g., /setcommand source ~/.profile && pm2 resurrect)
-- `/uploadkeys` - Bulk upload public keys to remote hosts (For security, it's recommended to delete SSH login password and public key after setting private key and uploading public key)
+- `/language` - 切换语言 (Switch language)
+- `/start` - 再次发送此帮助消息（输入非命令字符也可推送帮助）
+- `/grouprundeault` - 触发批量主机执行命令
+- `/setcron <小时数>` - 设置、查看执行命令的周期（例如：/setcron 24）
+- `/setvartime <分钟数>` - 设置、查看执行命令周期的随机变化范围（例如：/setvartime 10）
+- `/ssh` - 列出所有可用的主机
+- `/ssh <customhostname 或 ssluser@sslhost>` - 连接到指定的主机
+- `/exit` - 退出当前 SSH 会话
+- `/setcommand <command>` - 设置要执行的自定义命令（例如：/setcommand source ~/.profile && pm2 resurrect）
+- `/uploadkeys` - 批量上传公钥到远程主机（设置私钥及上传公钥后为保证使用安全建议删除ssh登录密码和公钥）
 
-### New Commands (Scheduled Task Management)
+### 新增命令（定时任务管理）
 
-- `/grouprun <command> [target]` - Execute custom command on specified hosts
-  - Example: /addtask pwd all
-  - Parameter description:
-    - `target`: Target hosts (optional, default is "all", see Host Grouping and Target Selection for specific usage)
-- `/addtask <command> <interval> <variation> [target]` - Add a new scheduled task
-  - Example: /addtask uptime 2 10 all
-  - Parameter description:
-    - `interval`: Execution interval (hours or minutes, depending on current mode)
-    - `variation`: Random variation range (minutes or seconds, depending on current mode)
-    - `target`: Target hosts (optional, default is "all", see Host Grouping and Target Selection for specific usage)
-- `/listtasks` - List all scheduled tasks
-- `/removetask <task_id>` - Remove the specified scheduled task
-- `/pausetask <task_id>` - Pause the specified scheduled task
-- `/resumetask <task_id>` - Resume the specified scheduled task
-- `/switchmode` - Switch time unit mode (hours/minutes), default is hour mode for compatibility.
+- ` /grouprun <命令> [目标]` - 执行自定义命令到指定主机
+  - 例如：/addtask pwd all
+  - 参数说明：
+    - `目标`: 目标主机（可选，默认为 "all"，具体使用见主机分组和目标选择）
+- `/addtask <命令> <周期> <偏差> [目标]` - 添加新的定时任务
+  - 例如：/addtask uptime 2 10 all
+  - 参数说明：
+    - `周期`: 执行间隔（小时或分钟，取决于当前模式）
+    - `偏差`: 随机变化范围（分钟或秒，取决于当前模式）
+    - `目标`: 目标主机（可选，默认为 "all"，具体使用见主机分组和目标选择）
+- `/listtasks` - 列出所有定时任务
+- `/removetask <task_id>` - 删除指定的定时任务
+- `/pausetask <task_id>` - 暂停指定的定时任务
+- `/resumetask <task_id>` - 恢复指定的定时任务
+- `/switchmode` - 切换时间单位模式（小时/分钟），为保证兼容性，默认为小时模式。
 
-### Host Grouping and Target Selection
+### 主机分组和目标选择
 
-When adding tasks or executing commands, you can specify target hosts in the following ways:
+在添加任务或执行命令时，可以使用以下方式指定目标主机：
 
-- `all`: All hosts
-- `+N`: Select the first N hosts in ACCOUNTS_JSON (e.g., `+3`)
-- `-N`: Select the last N hosts in ACCOUNTS_JSON (e.g., `-2`)
-- `customhostname1,customhostname2,...`: Specify multiple hosts
-- `group:group_name`: Use predefined host groups (configured in CRON_TASKS_JSON)
+- `all`: 所有主机
+- `+N`: 选择ACCOUNTS_JSON前 N 个主机（例如：`+3`）
+- `-N`: 选择ACCOUNTS_JSON后 N 个主机（例如：`-2`）
+- `customhostname1,customhostname2,...`: 指定多个主机
+- `group:group_name`: 使用预定义的主机组（在 CRON_TASKS_JSON 中配置group_name）
 
-### Notes
+### 注意事项
 
-- SSH sessions have a 15-minute timeout, after which the connection will automatically disconnect.
-- All operations and execution results will be reported in real-time through the Telegram bot.
-- Please ensure your custom commands are safe and will not cause damage to the hosts.
-- The execution time of scheduled tasks may have slight deviations, this is designed to avoid all tasks executing simultaneously.
+- SSH 会话有15分钟的超时时间，超时后会自动断开连接。
+- 所有的操作和执行结果都会通过 Telegram 机器人实时反馈。
+- 请确保您的自定义命令是安全的，不会对主机造成损害。
+- 定时任务的执行时间可能会有轻微偏差，这是为了避免所有任务同时执行而设计的。
 
-## Troubleshooting
+## 故障排除
 
-If you encounter issues, please check the following points:
+如果遇到问题，请检查以下几点：
 
-1. Ensure all environment variables are correctly set.
-2. Check the Render logs for more detailed error information.
-3. Make sure your Telegram bot Token is valid and the bot has been added to the specified chat.
-4. Verify that the login information for the hosts is correct, including hostname, username, and password.
-5. Check if the format of ACCOUNTS_JSON and CRON_TASKS_JSON is correct, ensuring all required fields are filled.
+1. 确保所有环境变量都已正确设置。
+2. 检查 Render 日志以获取更详细的错误信息。
+3. 确保您的 Telegram 机器人 Token 是有效的，且机器人已被添加到指定的聊天中。
+4. 验证主机的登录信息是否正确，包括主机名、用户名和密码。
+5. 检查ACCOUNTS_JSON、CRON_TASKS_JSON 的格式是否正确，确保所有必需字段都已填写。
 
-If the problem persists, please submit an issue to the project's GitHub repository.
+如果问题仍然存在，请提交一个 issue 到项目的 GitHub 仓库。
 
-## Disclaimer
+## 免责声明
 
-This project is for educational and research purposes only. Any operations using this tool should comply with relevant laws, regulations, and service terms. Users are fully responsible for all consequences of using this tool.
+本项目仅用于教育和研究目的。使用本工具进行任何操作都应遵守相关法律法规和服务条款。用户应对使用本工具的所有后果负全部责任。
 
-The developers are not responsible for any direct or indirect losses caused by the use of this tool, including but not limited to data loss, system crashes, security vulnerabilities, and other issues. By using this tool, you agree to assume all related risks.
+开发者不对因使用本工具而导致的任何直接或间接损失负责，包括但不限于数据丢失、系统崩溃、安全漏洞等问题。使用本工具即表示您同意承担所有相关风险。
 
-Please use this tool with caution and ensure you have permission to operate on the target hosts. Do not use this tool for illegal purposes or on unauthorized systems.
+请谨慎使用本工具，并确保您有权限对目标主机进行操作。不要将本工具用于非法用途或未经授权的系统。
