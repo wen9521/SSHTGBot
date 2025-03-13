@@ -19,7 +19,7 @@
 
 - 🔐 **Authentication**: Support for password and key authentication
 - 🌐 **Web Terminal**: Manage SSH connections in browser
-- 📂 **SFTP Features**: Basic file upload and download (Coming Soon)
+- 📂 **SFTP Features**: File upload, download and editing capabilities
 - 📱 **Mobile Support**: Compatible with mobile devices
 - 🔄 **Batch Operations**: Execute commands on multiple servers
 - ⏰ **Scheduled Tasks**: Basic task management
