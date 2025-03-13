@@ -1,5 +1,58 @@
-<h1 align="center">SSHTGBot</h1>
+<h1 align="center">SSH Master</h1>
 <h3 align="center"><span style="font-size: 0.9em;">简体中文</span> / <a href="/.github/README_en.md" style="font-size: 0.9em;">English</a></h3>
+
+<div align="center">
+    <strong>🚀 轻量级 SSH/SFTP 远程管理工具 | <a href="https://ssh.argofusion.com">在线版本</a></strong>
+</div>
+
+<div align="center">
+    <p>📢 开源版本即将更新：支持 SFTP 和更好的使用体验</p>
+    <p>🌟 在线版本已发布：<a href="https://ssh.argofusion.com">https://ssh.argofusion.com</a></p>
+</div>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/状态-即将更新-orange" alt="Status">
+    <img src="https://img.shields.io/badge/开源协议-MIT-blue" alt="License">
+</p>
+
+## ✨ 主要功能
+
+- 🔐 **认证方式**: 支持密码和密钥认证
+- 🌐 **Web 终端**: 浏览器中管理 SSH 连接
+- 📂 **SFTP 功能**: 基础的文件上传下载（即将更新）
+- 📱 **移动适配**: 支持手机访问
+- 🔄 **批量操作**: 多服务器命令执行
+- ⏰ **定时任务**: 基础的任务管理
+- 👥 **分组管理**: 服务器分组功能
+- 🌍 **双语支持**: 中文和英文界面
+
+## 🎯 使用场景
+
+- 服务器日常维护
+- 批量命令执行
+- 文件传输管理
+- 定时任务执行
+- 移动端管理
+
+## 🚀 在线版本
+
+访问在线版本：[https://ssh.argofusion.com](https://ssh.argofusion.com)
+
+## 📝 版本说明
+
+这是 SSH Master 的开源版本，提供基础的 SSH 连接和管理功能，SFTP 支持即将更新。在线版本额外提供：
+
+- 多用户权限管理系统
+
+在线版本：[https://ssh.argofusion.com](https://ssh.argofusion.com)
+
+## 🤝 参与贡献
+
+欢迎提交 Issue 和 Pull Request 来帮助改进这个项目。
+
+## 📜 开源协议
+
+本项目采用 MIT 协议开源，使用时请遵守开源协议。
 
 ## 项目简介
 
