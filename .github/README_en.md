@@ -18,7 +18,7 @@
 ## ✨ Key Features
 
 - 🔐 **Authentication**: Support for password and key authentication
-- 🌐 **Web Terminal**: Manage SSH connections in browser
+- 🌐 **Web Terminal**: Manage SSH connections in browser(WEBSSH)
 - 📂 **SFTP Features**: File upload, download and editing capabilities
 - 📱 **Mobile Support**: Compatible with mobile devices
 - 🔄 **Batch Operations**: Execute commands on multiple servers
