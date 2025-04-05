@@ -1,9 +1,62 @@
-<h1 align="center">SSHTGBot</h1>
+<h1 align="center">SSH Master</h1>
 <h3 align="center"><span style="font-size: 0.9em;"><a href="/README.md">简体中文</a></span> / <span style="font-size: 0.9em;">English</span></h3>
+
+<div align="center">
+    <strong>🚀 Lightweight SSH/SFTP Remote Management Tool | <a href="https://ssh.argofusion.com">Online Version</a></strong>
+</div>
+
+<div align="center">
+    <p>📢 Open Source Version Update Coming: Support for SFTP and Better User Experience</p>
+    <p>🌟 Online Version Available: <a href="https://ssh.argofusion.com">https://ssh.argofusion.com</a></p>
+</div>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Status-Coming Soon-orange" alt="Status">
+    <img src="https://img.shields.io/badge/License-MIT-blue" alt="License">
+</p>
+
+## ✨ Key Features
+
+- 🔐 **Authentication**: Support for password and key authentication
+- 🌐 **Web Terminal**: Manage SSH connections in browser(WEBSSH)
+- 📂 **SFTP Features**: File upload, download and editing capabilities
+- 📱 **Mobile Support**: Compatible with mobile devices
+- 🔄 **Batch Operations**: Execute commands on multiple servers
+- ⏰ **Scheduled Tasks**: Basic task management
+- 👥 **Group Management**: Server grouping functionality
+- 🌍 **Bilingual**: Chinese and English interface
+
+## 🎯 Use Cases
+
+- Server maintenance
+- Batch command execution
+- File transfer management
+- Scheduled task execution
+- Mobile management
+
+## 🚀 Online Version
+
+Visit the online version: [https://ssh.argofusion.com](https://ssh.argofusion.com)
+
+## 📝 Version Information
+
+This is the open-source version of SSH Master, providing basic SSH connection and management features, with SFTP support coming soon. The online version additionally offers:
+
+- Multi-user permission management system
+
+Online version: [https://ssh.argofusion.com](https://ssh.argofusion.com)
+
+## 🤝 Contributing
+
+Issues and Pull Requests are welcome to help improve this project.
+
+## 📜 License
+
+This project is licensed under the MIT License. Please comply with the open source license when using it.
 
 ## Project Overview
 
-SSHTGBot is a Telegram-based automation tool primarily designed for remote management and scheduled or manual execution of commands on multiple hosts (such as serv00). This project allows users to perform various operations through a Telegram bot interface, including SSH connections to hosts, execution of custom commands in bulk, and setting up scheduled tasks.
+SSH Master is a Telegram-based automation tool primarily designed for remote management and scheduled or manual execution of commands on multiple hosts (such as serv00). This project allows users to perform various operations through a Telegram bot interface, including SSH connections to hosts, execution of custom commands in bulk, and setting up scheduled tasks.
 
 ### Key Features
 
@@ -21,7 +74,7 @@ SSHTGBot is a Telegram-based automation tool primarily designed for remote manag
 
 We welcome you to join our Telegram discussion group. Here you can discuss usage experiences with other users, get help, and stay updated on the latest project developments:
 
-[Join SSHTGBot Discussion Group](https://t.me/+WIX6H-944HQzZmQ9)
+[Join SSH Master Discussion Group](https://t.me/+WIX6H-944HQzZmQ9)
 
 ## Deployment Method
 
